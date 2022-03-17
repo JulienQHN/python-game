@@ -1,4 +1,4 @@
-Le gens se lance avec "Python main.py" a la racine du dossier.
+Le jeu se lance avec "Python main.py" a la racine du dossier.
 
 Le Player ce joue avec :
 
